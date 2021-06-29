@@ -9,15 +9,17 @@ h1 {
     color: #11999E;
     margin: 0px;
     margin-top: 0px;
-    font-family: 'Sacramento', cursive;
+    font-family: 'Castoro', serif;
     font-size: 90px;
     padding-top: 30px;
+    padding-bottom: 0.5%;
 }
 
 h2 {
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
-    font-size: 2.7rem;
+    font-size: 2.7rem;  
+    margin: 0%;
 }
 
 a {
@@ -43,9 +45,9 @@ h3 {
 }
 
 .profile_pic {
-    padding-top: 100px;
-    height: 200px;
-    width: 200px;
+    width: 20%;
+    height: 25%;
+    padding: 2%;
 }
 
 .literature_pic {
@@ -62,6 +64,20 @@ h3 {
     margin-right: 30px;
 }
 
+.react {
+    height: 25%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.express {
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
 .skill-1 {
     height: 25%;
     width: 25%;
@@ -69,8 +85,8 @@ h3 {
     margin-right: 30px;
 }
 
-.mid_container {
-}
+
+
 
 .bottom-container {
     background-color: #66BFBF;
@@ -93,7 +109,7 @@ h3 {
 
 .skill-row {
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 150px auto 150px auto;
     text-align: left;
     line-height: 2;
 }
